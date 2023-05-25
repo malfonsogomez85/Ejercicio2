@@ -1,0 +1,42 @@
+tener en cuenta uso de las 4 consignas:
+diccionarios, listas, tuplas y sets
+
+definicion de sets
+clase utilizada para representar los conjuntos.
+
+
+*****
+MENU DEL USUARIO 
+1.(AJUSTAR TRM)
+TRM por cada divisa ingrese 3 valores, valor de compra, valor de ganancia, 
+-entran 15 3*c/divisa valores en un array temporal el cual los actualiza en la tupla
+
+COMPRA Y VTA DE DIVISAS
+
+ESCOGER 5 DIVISAS: YEN, LIBRA, DOLAR, EURO, PESO
+VALORES
+
+ALMACENAR EL DATO, Y REALIZAR LA CONVERSION
+
+*****
+
+DICCIONARIO- juego inmutable
+
+Dentro meter la moneda en su quivalencia
+"palabra" en funcion del peso colombiano
+
+(Yen, Euro,Dolar,Librao,Peso)
+-Divisa principal (index- arreglo"peso")
+-trabajar con float 
+-no redondeo
+-Incluir excepciones por medio de un while
+-crear un sub metodo para cada divisa
+
+*****
+
+LISTAS arreglo temporal.
+
+*****
+cambiante
+
+*** establecer el margen de compra y de ganancias para la vta.
